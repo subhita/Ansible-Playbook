@@ -1,6 +1,6 @@
 # Ansible-Playbook
 
-Step 1: Installed Ansible.
+Step 1: Installed Ansible on ec2 instance.
 
 Step 2: Setup Passwordless Authentication.
 
