@@ -1,0 +1,8 @@
+---
+- hosts: 
+  become:
+  tasks:
+    - name: 
+    # task 
+       name:
+       state:
